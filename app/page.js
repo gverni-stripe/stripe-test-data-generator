@@ -79,7 +79,7 @@ export default function Home() {
             className="block text-gray-700 text-sm font-bold mb-2"
             htmlFor="secretKey"
           >
-            Stripe Test Secret Key
+            Stripe Test Secret Key (Don't worry, it's not saved anywhere)
           </label>
           <input
             id="secretKey"
